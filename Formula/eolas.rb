@@ -5,9 +5,9 @@
 class Eolas < Formula
   desc "Eolas CLI - terminal access to the Eolas platform API"
   homepage "https://github.com/eolas-hq/homebrew-eolas-cli"
-  version "0.1.12493"
-  url "https://github.com/eolas-hq/homebrew-eolas-cli/releases/download/v0.1.12493/eolas-0.1.12493-osx-arm64.tar.gz"
-  sha256 "115e3c71e147a5310de753c41c3908f961ce505183205cc4fc5dc19bf5ebd5cf"
+  version "0.1.12496"
+  url "https://github.com/eolas-hq/homebrew-eolas-cli/releases/download/v0.1.12496/eolas-0.1.12496-osx-arm64.tar.gz"
+  sha256 "6a87065a466b15078aef829b3a126fe818a056c24c6b5cd028e35cd4bb775be8"
 
   depends_on :macos
   depends_on arch: :arm64
